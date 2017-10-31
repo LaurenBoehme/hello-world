@@ -1,3 +1,5 @@
 # hello-world
-hello world
-my name is lauren and i am 17 years old
+
+#changelog
+#added hello-world 10/30/2017
+#added helloworld.png 10/31/17
